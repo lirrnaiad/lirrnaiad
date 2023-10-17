@@ -5,5 +5,5 @@
 * ~~Mario More~~  
 * ~~Cash~~  
 * ~~Credit~~  
-### Week 2 - ONGOING
-**September 24 - 30, 2023**    
+### Week 2 - ON HOLD
+**Busy with school**
