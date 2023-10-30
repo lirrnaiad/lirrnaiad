@@ -3,6 +3,10 @@
 **September 17 - 23, 2023** 
 
 Practice Problems
+* ~~Half~~
+* ~~Prime~~
+
+Lab
 * ~~Population~~
 
 Problem Sets
@@ -15,5 +19,5 @@ Problem Sets
 
 Practice Problems
 * ~~Hours~~
-* N0 V0w3ls
-* Password
+* ~~N0 V0w3ls~~
+* ~~Password~~
