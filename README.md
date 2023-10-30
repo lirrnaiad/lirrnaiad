@@ -14,6 +14,6 @@ Problem Sets
 **October 29 - November ??, 2023** 
 
 Practice Problems
-* Hours - Working
+* ~~Hours~~
 * N0 V0w3ls
 * Password
