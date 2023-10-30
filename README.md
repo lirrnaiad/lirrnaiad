@@ -1,9 +1,19 @@
 # Studying with CS50x
 ### Week 1 - DONE!
-**September 17 - 23, 2023**  
+**September 17 - 23, 2023** 
+
+Practice Problems
+* ~~Population~~
+
+Problem Sets
 * ~~Mario Less~~  
 * ~~Mario More~~  
 * ~~Cash~~  
 * ~~Credit~~  
-### Week 2 - ON HOLD
-**Busy with school**
+### Week 2 - IN PROGRESS
+**October 29 - November ??, 2023** 
+
+Practice Problems
+* Hours - Working
+* N0 V0w3ls
+* Password
