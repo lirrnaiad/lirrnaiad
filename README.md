@@ -21,3 +21,12 @@ Practice Problems
 * ~~Hours~~
 * ~~N0 V0w3ls~~
 * ~~Password~~
+
+Lab
+* ~~Scrabble~~
+
+Problem Sets
+* ~~Bulbs~~
+* Substitution
+* Caesar
+* Wordle50
