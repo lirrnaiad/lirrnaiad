@@ -28,5 +28,5 @@ Lab
 Problem Sets
 * ~~Bulbs~~
 * Substitution
-* Caesar
+* ~~Caesar~~
 * Wordle50
