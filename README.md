@@ -14,8 +14,8 @@ Problem Sets
 * ~~Mario More~~  
 * ~~Cash~~  
 * ~~Credit~~  
-### Week 2 - IN PROGRESS
-**October 29 - November ??, 2023** 
+### Week 2 - DONE!
+**October 29 - November 11, 2023** 
 
 Practice Problems
 * ~~Hours~~
@@ -27,6 +27,9 @@ Lab
 
 Problem Sets
 * ~~Bulbs~~
-* Substitution
+* Substitution - skipped
 * ~~Caesar~~
-* Wordle50
+* Wordle50 - skipped
+
+### Week 3
+**November 12 - November ??, 2023**
