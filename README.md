@@ -33,3 +33,9 @@ Problem Sets
 
 ### Week 3
 **November 12 - November ??, 2023**
+
+Practice Problems
+* ~~Recursive atoi~~
+* ~~Average Temperatures~~
+* ~~Max~~
+* ~~Snackbar~~
