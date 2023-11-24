@@ -31,8 +31,8 @@ Problem Sets
 * ~~Caesar~~
 * Wordle50 - skipped
 
-### Week 3
-**November 12 - November ??, 2023**
+### Week 3 - DONE!
+**November 12 - November 24, 2023**
 
 Practice Problems
 * ~~Recursive atoi~~
@@ -45,5 +45,5 @@ Lab
 
 Problem Sets
 * ~~Plurality~~
-* Runoff
-* Tideman
+* Runoff - skipped
+* ~~Tideman~~
