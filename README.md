@@ -39,3 +39,11 @@ Practice Problems
 * ~~Average Temperatures~~
 * ~~Max~~
 * ~~Snackbar~~
+
+Lab
+* ~~Sort~~
+
+Problem Sets
+* ~~Plurality~~
+* Runoff
+* Tideman
