@@ -1,6 +1,6 @@
 ## Hello World!
 
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/lirrnaiad)
+[<img src="https://img.shields.io/github/followers/lirrnaiad?label=follow&style=social" height="22" title="Follow me" />](https://github.com/lirrnaiad)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sean-ivan-fabia-1804bb243/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:seanivanfabia@gmail.com)
 
