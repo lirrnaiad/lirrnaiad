@@ -1,49 +1,27 @@
-# Studying with CS50x
-### Week 1 - DONE!
-**September 17 - 23, 2023** 
+## Hello World!
 
-Practice Problems
-* ~~Half~~
-* ~~Prime~~
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/lirrnaiad)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sean-ivan-fabia-1804bb243/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:seanivanfabia@gmail.com)
 
-Lab
-* ~~Population~~
 
-Problem Sets
-* ~~Mario Less~~  
-* ~~Mario More~~  
-* ~~Cash~~  
-* ~~Credit~~  
-### Week 2 - DONE!
-**October 29 - November 11, 2023** 
+My name is **Sean Ivan Fabia**, I'm 18 years old and I'm currently a 1st year student of **Information Technology** at the University of Eastern Philippines.
+I'm currently learning Java and looking forward to creating Android applications as a possible career. 
+I'm also interested in anime and visual novels, I've been learning Japanese for 2 years and I'm at a level where I can comfortably read and listen to native material that's on the easier side.
 
-Practice Problems
-* ~~Hours~~
-* ~~N0 V0w3ls~~
-* ~~Password~~
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-Lab
-* ~~Scrabble~~
 
-Problem Sets
-* ~~Bulbs~~
-* Substitution - skipped
-* ~~Caesar~~
-* Wordle50 - skipped
+- 🌱 I’m currently learning <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code> 
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-### Week 3 - DONE!
-**November 12 - November 24, 2023**
+- 💬 Feel free to message if you're also learning Japanese or programming in general, I am always available to help and learn together.
 
-Practice Problems
-* ~~Recursive atoi~~
-* ~~Average Temperatures~~
-* ~~Max~~
-* ~~Snackbar~~
+- 📫 How to reach me:
+   - <a><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> [Facebook](https://www.facebook.com/sean.fabia/): Sean Ivan Fabia</a>
+   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Lirrnaiad#5679 </a>
 
-Lab
-* ~~Sort~~
-
-Problem Sets
-* ~~Plurality~~
-* Runoff - skipped
-* ~~Tideman~~
+<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=lirrnaiad&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
+/>
