@@ -23,5 +23,10 @@ I'm also interested in anime and visual novels, I've been learning Japanese for 
    - <a><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> [Facebook](https://www.facebook.com/sean.fabia/): Sean Ivan Fabia</a>
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Lirrnaiad#5679 </a>
 
+- 📚 Resources I'm currently learning/practicing:
+   - <a><img height="25" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"> [Codewars](https://www.codewars.com/): 6 kyu </a>
+   - <a><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [University of Helsinki's Java MOOC](https://java-programming.mooc.fi/): Java Programming II, Part 8 </a>
+   - <a><img height="25" src="https://cloud.githubusercontent.com/assets/2788038/9241104/337be94a-4145-11e5-85b9-7980f39b07b1.png"> [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1): Week 1: Union Find </a>
+
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=lirrnaiad&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
