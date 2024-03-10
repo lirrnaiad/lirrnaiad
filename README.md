@@ -6,7 +6,7 @@
 
 
 My name is **Sean Ivan Fabia**, I'm 18 years old and I'm currently a 1st year student of **Information Technology** at the University of Eastern Philippines.
-I'm currently learning Java and looking forward to creating Android applications as a possible career. 
+I'm currently learning Java and looking forward to Spring Boot as a possible career.
 I'm also interested in anime and visual novels, I've been learning Japanese for 2 years and I'm at a level where I can comfortably read and listen to native material that's on the easier side.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
