@@ -6,7 +6,7 @@
 
 
 My name is **Sean Ivan Fabia**, I'm 18 years old and I'm currently a 1st year student of **Information Technology** at the University of Eastern Philippines.
-I'm currently focusing on Java and looking forward to Spring Boot, hoping for a possible career of Backend Development. I've also been learning Japanese for 2 years, and after months of banging my head against the wall because of the difficulty, I can finally comfortably read and listen to native material that's on the easier side!
+I'm currently focusing on Java and eagerly anticipating delving into Spring Boot, with the aim of pursuing a career in Backend Development. I've also been learning Japanese for 2 years, and after months of banging my head against the wall because of the difficulty, I can finally comfortably read and listen to native material that's on the easier side!
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
