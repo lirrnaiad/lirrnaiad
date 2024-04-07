@@ -28,6 +28,6 @@ I'm currently focusing on Java and eagerly anticipating delving into Spring Boot
 
 - 📚 Resources I'm currently using:
    - <a><img height="25" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"> [Codewars:](https://www.codewars.com/users/lirrnaiad) 5 kyu </a>
-   - <a><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [University of Helsinki's Java MOOC:](https://java-programming.mooc.fi/) Java Programming II - Part 13 </a>
+   - <a><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [University of Helsinki's Java MOOC:](https://java-programming.mooc.fi/) Java Programming II - Part 14 </a>
    - <a><img height="25" src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default"> [Harvard University's CS50:](https://cs50.harvard.edu/x/2024/) Week 4 - Memory </a>
 
