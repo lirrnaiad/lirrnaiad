@@ -30,6 +30,3 @@ I'm currently focusing on Java and eagerly anticipating delving into Spring Boot
 - 📚 Resources I'm currently using:
    - <a><img height="25" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"> [Codewars:](https://www.codewars.com/users/lirrnaiad) 5 kyu </a>
    - <a><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg"> [Algorithms: Part 1](https://www.coursera.org/learn/algorithms-part1) - Week 1 </a>
-   - <a><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg"> [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) - Week 1 </a>
-   - <a><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg"> [UC Berkeley's CS61A](cs61a.org) - Week 1 </a>
-
