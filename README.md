@@ -28,5 +28,4 @@ I'm currently focusing on Java and eagerly anticipating delving into Spring Boot
 <a href="https://roadmap.sh"><img align="right" src="https://api.roadmap.sh/v1-badge/tall/647a926740cee644b2822a9c?variant=dark" alt="roadmap.sh"/></a>
 
 - 📚 Resources I'm currently using:
-   - <a><img height="25" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"> [Codewars:](https://www.codewars.com/users/lirrnaiad) 5 kyu </a>
-   - <a><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg"> [Algorithms: Part 1](https://www.coursera.org/learn/algorithms-part1) - Week 1 </a>
+   - N/A I'm being a lazy bum rn lmao
